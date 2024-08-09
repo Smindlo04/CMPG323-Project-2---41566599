@@ -44,6 +44,9 @@ This endpoint retrieves telemetry data and calculates cost savings based on prov
 - The API currently assumes a simplified cost model. You might need to modify it based on your specific requirements.
 - Error handling is implemented for potential database exceptions.
 
+---
+### URL to my API
+https://localhost:7209/swagger/index.html
 --- 
 # Reference List
 - Smith, J. (2023). Designing Data-Intensive Applications. O'Reilly Media.
