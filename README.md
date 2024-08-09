@@ -45,8 +45,10 @@ This endpoint retrieves telemetry data and calculates cost savings based on prov
 - Error handling is implemented for potential database exceptions.
 
 ---
+
 ### URL to my API
 https://localhost:7209/swagger/index.html
+
 --- 
 # Reference List
 - Smith, J. (2023). Designing Data-Intensive Applications. O'Reilly Media.
