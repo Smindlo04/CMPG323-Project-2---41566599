@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NWUTechTrends_WebAPI.props" />
+</Project>

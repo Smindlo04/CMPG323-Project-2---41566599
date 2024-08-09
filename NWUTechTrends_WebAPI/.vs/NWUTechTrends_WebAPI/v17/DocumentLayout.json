@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|c:\\users\\mpumi\\desktop\\cmpg323 - project 2\\nwutechtrends_webapi\\controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|solutionrelative:controllers\\jobtelemetriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|c:\\users\\mpumi\\desktop\\cmpg323 - project 2\\nwutechtrends_webapi\\controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|solutionrelative:controllers\\processescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|c:\\users\\mpumi\\desktop\\cmpg323 - project 2\\nwutechtrends_webapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|c:\\users\\mpumi\\desktop\\cmpg323 - project 2\\nwutechtrends_webapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|c:\\users\\mpumi\\desktop\\cmpg323 - project 2\\nwutechtrends_webapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D238F24-BF45-4D91-9322-352763899B91}|NWUTechTrends_WebAPI.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\ProcessesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProcessesController.cs",
+              "ToolTip": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\ProcessesController.cs",
+              "RelativeToolTip": "Controllers\\ProcessesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:50:08.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:17:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:17:16.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:33:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobTelemetriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\JobTelemetriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobTelemetriesController.cs",
+              "ToolTip": "C:\\Users\\Mpumi\\Desktop\\CMPG323 - Project 2\\NWUTechTrends_WebAPI\\Controllers\\JobTelemetriesController.cs",
+              "RelativeToolTip": "Controllers\\JobTelemetriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwL0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:30:18.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
