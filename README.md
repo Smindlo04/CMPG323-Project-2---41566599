@@ -1,1 +1,3 @@
-# CMPG323-Project-2---41566599
+# IT Developments - CMPG323
+
+Welcome to my CMPG323 module project 2! This repository contains a brief overview of the project.
