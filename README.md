@@ -46,8 +46,9 @@ This endpoint retrieves telemetry data and calculates cost savings based on prov
 
 ---
 
-### URL to my API
-https://localhost:7209/swagger/index.html
+### URL to my API and Azure Resource Group
+- https://localhost:7209/swagger/index.html
+- https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/d9813255-97be-4979-b8ba-26f508a3301f/resourceGroups/TheResource/overview
 
 --- 
 # Reference List
